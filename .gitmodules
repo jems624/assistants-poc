@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/jems624/assistants-poc-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/jems624/assistants-poc-backend.git
