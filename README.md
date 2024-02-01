@@ -1,6 +1,6 @@
 # Assistant Chat Demo
 
-This demo project tests out OpenAI's Assitants API, particularly the tools integration. Currently it's setup to provide answer related to the Quasar Framework (which is the framework used for the frontend):
+This demo project tests out OpenAI's Assistants API, particularly the tools integration. Currently it's setup to provide answer related to the Quasar Framework, which is the framework used for the frontend:
 
 https://github.com/jems624/assistants-poc/assets/142084868/8b0f0a66-409f-42be-8c53-e7fd2ae3b441
 
