@@ -27,3 +27,7 @@ Currently it supports 2 tools: `download_webpage` and `get_search_results` which
 You can add more tools by defining a function with the same name in `app/tools.py` on the backend. The function must also be named after the tool defined on the assistant.
 
 See the backend README for more information.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
