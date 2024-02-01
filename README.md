@@ -4,7 +4,9 @@ This demo project tests out OpenAI's Assistants API, particularly the tools inte
 
 https://github.com/jems624/assistants-poc/assets/142084868/8b0f0a66-409f-42be-8c53-e7fd2ae3b441
 
-Although it can easily customized for other purposes.
+Although it can easily customized for other purposes. For example, here the assistant is converted to a Digital Shelf Assistant with a few theme changes and a different prompt for the assistant:
+
+https://github.com/jems624/assistants-poc/assets/142084868/52351d87-e101-4dd9-bc4d-9eb684351ef6
 
 > **Note**: This project is meant for demo purposes only. It lacks a lot of security features such as API authentication and input/output sanitization and validation . DO NOT deploy to production!
 
